@@ -1,0 +1,11 @@
+.Box{
+text-align: center;
+ margin: 30px;
+border: 1px solid black;
+height:300px;width: 300px;
+}
+button{
+    padding:10px;
+    background-color: bisque;
+    margin:22px;
+}
